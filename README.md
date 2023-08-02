@@ -17,7 +17,6 @@
 ![Bootsrap](https://img.shields.io/badge/-Bootstrap-000000?style=for-the-badge&logo=bootstrap)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react)
-<br/>
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python)
 ![Django](https://img.shields.io/badge/-Django-000000?style=for-the-badge&logo=django)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=for-the-badge&logo=kotlin)
@@ -31,11 +30,11 @@
      <td>
 <div align=center>
   <a href="#" title="Trungquandev">
-    <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonia-Uwamahoro&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=7A4951&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    <img width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonia-Uwamahoro&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=ffffff&text_color=ffffff&icon_color=61dafb&bg_color=000000&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     <br/>
   </a>
   <a href="#" title="Trungquandev">
-    <img width="600" src="https://github-readme-stats.vercel.app/api?username=Sonia-Uwamahoro&show_icons=true&theme=react&title_color=7A4951&border_color=ffffff&hide_border=true" />
+    <img width="900" src="https://github-readme-stats.vercel.app/api?username=Sonia-Uwamahoro&show_icons=true&theme=react&title_color=ffffff&bg_color=000000&border_color=ffffff&hide_border=true" />
   </a>
 </div>
      </td>
