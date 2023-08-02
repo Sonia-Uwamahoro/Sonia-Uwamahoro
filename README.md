@@ -17,11 +17,6 @@
 
 
 
-
-
-
-<br/>
-
 <p align="center">
 <a href="https://www.soniauwamahoro.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.soniauwamahoro.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/sonia-uwamahoro/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sonia%20Uwamahoro-blue?style=flat-square&logo=linkedin"></a>
