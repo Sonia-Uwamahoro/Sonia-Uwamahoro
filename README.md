@@ -1,25 +1,52 @@
-
-###### PROGRAMMING LANGUAGES | FRAMEWORKS | LIBRARIES | TOOLS </br>
+<table>
+  <tr>
+    <td>
+      <h1>Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+</h1>
+<ul style="list-style: none;">
+  <li>😊 You can find my Portfolio <b>Here</b></li>
+  <li>👨‍💻 I’m currently working on <b>Portfolio</b></li>
+  <li>🌱 I’m currently Studying on <b>Node JS</b></li>
+  <li>💬 Ping me about: <b>design</b>, <b>coding</b></li>
+  <li>🔭 Fun Fact: <b>I Love Space</b></li>
+</ul>
+  
+ ###### PROGRAMMING LANGUAGES | FRAMEWORKS | LIBRARIES | TOOLS </br>
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3)
+![Bootsrap](https://img.shields.io/badge/-Bootstrap-000000?style=for-the-badge&logo=bootstrap)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react)
+<br/>
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python)
 ![Django](https://img.shields.io/badge/-Django-000000?style=for-the-badge&logo=django)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=for-the-badge&logo=kotlin)
 ![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
-
 ![Figma](http://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=figma)
 ![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-000000?style=for-the-badge&logo=Adobe%20Illustrator)
 ![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-000000?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=31A8FF&labelColor=000000)
 
-</br></br></br></br>
-
-
-
-<p align="center">
-<a href="https://www.soniauwamahoro.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.soniauwamahoro.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/sonia-uwamahoro/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sonia%20Uwamahoro-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/sonie.a_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-sonie.a_-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:soniauwamahooro@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-soniauwamahooro@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
+      </td>   
+     <td>
+<div align=center>
+  <a href="#" title="Trungquandev">
+    <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonia-Uwamahoro&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=7A4951&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    <br/>
+  </a>
+  <a href="#" title="Trungquandev">
+    <img width="600" src="https://github-readme-stats.vercel.app/api?username=Sonia-Uwamahoro&show_icons=true&theme=react&title_color=7A4951&border_color=ffffff&hide_border=true" />
+  </a>
+</div>
+     </td>
+   </tr>
+</table>
+<br/><br/><br/>
+
+<div align="Center">
+<a href="https://www.linkedin.com/in/saravananselvamohan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://twitter.com/__Saravanan" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white" alt="Twitter"></a>
+<a href="https://www.instagram.com/saravananselvamohan/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+
+
+</div>
