@@ -6,7 +6,7 @@
 <ul style="list-style: none;">
   <li>😊 You can find my Portfolio <b>Here</b></li>
   <li>👨‍💻 I’m currently working on <b>Portfolio</b></li>
-  <li>🌱 I’m currently Studying on <b>Node JS</b></li>
+  <li>🌱 I’m currently Studying on <b>Next JS</b></li>
   <li>💬 Ping me about: <b>design</b>, <b>coding</b></li>
   <li>🔭 Fun Fact: <b>I Love Space</b></li>
 </ul>
@@ -15,8 +15,10 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3)
 ![Bootsrap](https://img.shields.io/badge/-Bootstrap-000000?style=for-the-badge&logo=bootstrap)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-000000?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python)
 ![Django](https://img.shields.io/badge/-Django-000000?style=for-the-badge&logo=django)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=for-the-badge&logo=kotlin)
