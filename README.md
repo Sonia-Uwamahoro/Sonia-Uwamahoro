@@ -5,9 +5,8 @@
 </h1>
 <ul style="list-style: none;">
   <li>😊 You can find my Portfolio <b>Here</b></li>
-  <li>👨‍💻 I’m currently working on my <b>Portfolio</b></li>
-  <li>🌱 I’m currently Studying on <b>Next JS</b></li>
-  <li>💬 Ping me about: <b>design</b>, <b>coding</b></li>
+  <li>👨‍💻 I’m currently learning<b>React Native</b></li>
+  <li>💬 Ping me about: <b>Frontend</b>, <b>Product design</b></li>
   <li>🔭 Fun Fact: <b>I Love Space</b></li>
 </ul>
   
